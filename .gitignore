@@ -1,0 +1,15 @@
+*.apk
+/obj
+/ProjectSettings
+/Temp
+/Packages
+/Logs
+/Library
+/.vs
+/Assets
+!/Assets/Scripts
+!/Assets/Sprites
+!/Assets/Prefabs
+!/Assets/Scenes
+*.meta
+*.csproj
